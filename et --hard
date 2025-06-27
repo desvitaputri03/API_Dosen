@@ -1,0 +1,145 @@
+[33m69d3b42[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Dosen Api
+[33mb18a765[m[33m ([m[1;33mtag: [m[1;33mv10.0.0[m[33m, [m[1;32m10.x[m[33m)[m Use PHPUnit v10
+[33m4178640[m wip
+[33mf9cb760[m Merge branch '9.x'
+[33mf8b4477[m Keeps `"prefer-stable": true`
+[33m57633b6[m Uses `"minimum-stability": "stable"` on composer
+[33m29a35a5[m Update .styleci.yml
+[33mbd75d2f[m Update .styleci.yml
+[33m69b2657[m Update README.md
+[33mc954a72[m prep v10
+[33mab7582c[m[33m ([m[1;33mtag: [m[1;33mv9.0.0[m[33m)[m Merge pull request #167 from laravel/lumen9
+[33m2af0a39[m Update skeleton for Laravel 9
+[33mdd6bdee[m Merge branch '8.x'
+[33m54044ce[m Merge pull request #163 from robertoarruda/patch-1
+[33m4ef26c3[m Update README.md
+[33m01444e0[m Update README.md
+[33m8a9f5cc[m Merge pull request #162 from szepeviktor/patch-1
+[33m9951952[m Fix typehint of User::fillable
+[33m3e89a06[m Merge branch '8.x'
+[33mc28b5db[m[33m ([m[1;33mtag: [m[1;33mv8.1.2[m[33m)[m Bump
+[33m287d733[m Merge pull request #161 from laravel/feat/do-not-report-deprecations
+[33m55360ae[m Bumps framework dependencies
+[33mbf9d6d7[m Merge pull request #154 from laravel/driesvints-patch-1
+[33m24ba6bf[m Bump to PHP 7.4
+[33m906f3fa[m Merge branch '8.x'
+[33me74f612[m[33m ([m[1;33mtag: [m[1;33mv8.1.1[m[33m)[m Merge pull request #152 from bramceulemans/patch-1
+[33m47c5ad9[m Replace fzaninotto/faker with fakerphp/faker
+[33mb91edb0[m Merge branch 'master' into develop
+[33md489fe9[m[33m ([m[1;33mtag: [m[1;33mv8.1.0[m[33m)[m PHP 8 Support
+[33m0b6c7c2[m Merge pull request #151 from pataar/patch-2
+[33m11d7772[m [8.x] Update the badges to use shields.io
+[33m96242bd[m Update composer.json
+[33m8a9911c[m[33m ([m[1;33mtag: [m[1;33mv8.0.0[m[33m)[m Merge pull request #149 from laravel/laravel-8-updates
+[33mf5cbda7[m Laravel 8 updates
+[33m7ce33db[m Merge branch 'master' into develop
+[33mbe6c351[m Update composer.json
+[33mad4c1f2[m Merge pull request #148 from voyula/patch-1
+[33m28a99c5[m [7.x] Normalize Style
+[33mc520cc1[m Merge pull request #147 from sebastianpopp/router-doc
+[33m74032c6[m add type hint for $router for autocomplete
+[33m3b5cd8d[m[33m ([m[1;33mtag: [m[1;33mv7.0.0[m[33m)[m Merge branch 'develop' of https://github.com/laravel/lumen into develop
+[33ma4637ac[m    remove composer.lock
+[33m91ba647[m Apply fixes from StyleCI (#145)
+[33mdee79ec[m     prepare for 7.x
+[33m417939c[m Merge branch 'master' into develop
+[33m0a6b669[m Applied fix on correct branch
+[33m045a1cf[m Match laravel/laravel composer.json
+[33mb2f86ea[m Merge pull request #144 from Huggyduggy/develop
+[33m103b8ab[m Fix spelling in PHPDoc (driectory)
+[33mdb58dd4[m Merge branch 'master' into develop
+[33m4f5013e[m[33m ([m[1;33mtag: [m[1;33mv6.3.4[m[33m)[m Synced changes from laravel/laravel
+[33m3c0a05d[m formatting
+[33m1029765[m Added a section to bootstrap/app.php for config files
+[33m53f75f8[m Merge pull request #142 from iamgergo/master
+[33mbf19c3c[m Fix doc
+[33mea57f97[m Apply Laravel's cleaner import approach
+[33m2070a96[m Merge pull request #141 from laravel/timezone
+[33m0b28046[m Move timezone setting to app bootstrap file
+[33m2515dab[m Merge branch 'master' into develop
+[33m26b3012[m Merge pull request #140 from iamgergo/master
+[33m04f3fc7[m use FQCNs
+[33m9e2cc73[m Bumped versions
+[33m472a4ae[m Merge branch 'master' into develop
+[33maba4f37[m Update templates
+[33m973f469[m Rename readme
+[33mfa15c41[m Merge branch 'master' into develop
+[33m88fed1d[m Update .styleci.yml
+[33m0f5a761[m Merge branch 'master' into develop
+[33m50abfd7[m Merge pull request #137 from gmsantos/patch-1
+[33md09febe[m Ignore PHPUnit result cache
+[33m883846c[m Merge pull request #136 from pjona/patch-1
+[33m9e3fb06[m [6.x] Allowing optional use of yml/yaml file extensions in .editorconfig
+[33m48c653a[m Lumen 7.0
+[33m86f1ed9[m[33m ([m[1;33mtag: [m[1;33mv6.0.0[m[33m)[m Update min PHP version
+[33m8a0d0fa[m Merge branch 'master' into develop
+[33m25d592a[m Apply fixes from StyleCI (#135)
+[33m01d24b1[m Order imports alphabetically
+[33ma7363a9[m Bump PHPUnit
+[33m29f0e77[m Update constraints
+[33mc25833a[m[33m ([m[1;33mtag: [m[1;33mv5.8.8[m[33m)[m Merge pull request #132 from laravel/phpdotenv
+[33mb269e4c[m No need to require phpdotenv anymore
+[33m23afd60[m Add StyleCI config
+[33m49eba59[m Merge pull request #131 from mgriego/5.8-cache-data
+[33m13c9eca[m Add storage/framework/cache/data per upstream Laravel 5.8 and this Lumen update: https://github.com/laravel/lumen-framework/commit/10ab42bece74ab2e45bad7443d3fd6c1ed0bd000#diff-ef16cabd572189f548df70d3f0042c33R49
+[33m38b12bc[m[33m ([m[1;33mtag: [m[1;33mv5.8.0[m[33m)[m Merge branch 'master' into develop
+[33md1287f5[m Merge pull request #129 from carusogabriel/patch-1
+[33m965f2b9[m [5.7] Handler::render might return a JsonResponse as well
+[33m8efd0e6[m Merge pull request #128 from laravel/phpdotenv
+[33m798dccd[m Use the new environment bootstrapper
+[33maf0c32a[m Require vlucas/phpdotenv:^3.3
+[33m88e7b45[m Reverse PHPUnit 8 change
+[33m5359212[m Merge pull request #127 from laravel/driesvints-patch-1
+[33mb8c1613[m Encourage PHPUnit 8 usage
+[33mca59148[m Merge pull request #125 from laravel/upgrade
+[33m8714693[m Set develop to 5.8 and upgrade dotenv
+[33ma1b7dd6[m Create .editorconfig
+[33m34b5fcf[m[33m ([m[1;33mtag: [m[1;33mv5.7.6[m[33m)[m Merge pull request #124 from chimit/update-env
+[33m6484da5[m Update .env
+[33mf09ecfb[m Merge pull request #122 from browner12/patch-1
+[33mc7181a5[m add missing period
+[33ma0fbc4b[m Merge pull request #120 from bryanjhv/master
+[33m53e6f09[m Merge pull request #121 from driesvints/patch-1
+[33mce15b9d[m Fix indentation
+[33mea991a8[m Add Laravel 5.7 changes
+[33me653d2f[m Merge pull request #119 from bryanjhv/patch-1
+[33ma5b7ebf[m Follow Laravel 5.7 changes
+[33mb826fbf[m Merge pull request #118 from browner12/patch-1
+[33m9c6fc8a[m use HTTPS links where appropriate
+[33m1e9d380[m[33m ([m[1;33mtag: [m[1;33mv5.7.0[m[33m)[m version
+[33m01ba2bd[m Merge pull request #117 from sixlive/handler-variable
+[33m252c871[m Update Handler.php
+[33m7b48ab7[m Merge pull request #116 from mgriego/patch-1
+[33md21c5d1[m Remove deprecated synxtaxCheck parameter.
+[33mfb6e198[m Merge pull request #115 from damienwebdev/master
+[33ma497383[m updating composer.json to allow for seeds and factories during `composer install --no-dev`
+[33m1642a57[m Merge pull request #113 from chimit/patch-1
+[33m65efe4f[m Set an existing example event and example listener
+[33med7df85[m Merge pull request #110 from scrubmx/updates
+[33m8a06890[m Update composer.json file
+[33mde3213a[m[33m ([m[1;33mtag: [m[1;33mv5.6.0[m[33m)[m update example
+[33mbc3c619[m eol
+[33m0aa8cca[m fix conflicts
+[33m3807a2c[m    bump versions
+[33m01dd092[m      add logging env variables
+[33mf9a38fc[m Merge pull request #108 from MichaelDeBoey/htaccess
+[33m9f04d5b[m Update .htaccess To be in line with laravel/laravel
+[33m544ce0d[m Merge pull request #106 from gabriel-caruso/composer
+[33m2238b9e[m Update mockery/mockery in composer.json
+[33m342540f[m Merge pull request #102 from maxmirazh33/master
+[33m8ada803[m move optimize-autoloader to correct composer.json section
+[33mbf1e956[m Merge pull request #101 from vyuldashev/patch-1
+[33m991f03e[m Update PHP version
+[33m03955ee[m[33m ([m[1;33mtag: [m[1;33mv5.5.0[m[33m)[m dont ignore composer lock
+[33mc2b6e50[m Merge pull request #100 from laravel/analysis-z9321w
+[33m5c0294b[m Apply fixes from StyleCI
+[33mcc27d6d[m formating
+[33m071ae53[m Merge branch 'master' into develop
+[33mb80000e[m       add composer lock to gitignore
+[33m4bc7966[m     remove composer lock
+[33m6cb6191[m      update for lumen 5.5
+[33m4b4bbcd[m Merge pull request #99 from gabriel-caruso/patch-1
+[33m5ef84b6[m Update compose.json
+[33m0a1842c[m Merge pull request #96 from mstaack/patch-1
+[33m0cba68a[m Fix fresh artisan error b/c of memcached default
+[33me
